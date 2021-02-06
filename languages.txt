@@ -1,0 +1,4 @@
+[{"name":"Assamese","code":"AS"},{"name":"Bengali","code":"BN"},{"name":"Bodo","code":"BRX"},{"name":"Dogri","code":"DOI"},{"name":"Gujarati","code":"GU"},{"name":"Hindi","code":"HI"},
+{"name":"Kannada","code":"KN"},{"name":"Kashmiri","code":"KS"},{"name":"Konkani","code":"KOK"},{"name":"Maithili","code":"MAI"},{"name":"Malayalam","code":"ML"},{"name":"Manipuri","code":"MNI"},
+{"name":"Marathi","code":"mr"},{"name":"Nepali","code":"ne"},{"name":"Odia","code":"or"},{"name":"Punjabi","code":"pa"},{"name":"Sanskrit","code":"sa"},{"name":"Santali","code":"sat"},
+{"name":"Sindhi","code":"SD"},{"name":"Tamil","code":"TA"},{"name":"Telugu","code":"TE"},{"name":"Urdu","code":"UR"}]
